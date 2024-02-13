@@ -1,0 +1,15 @@
+E:\Australia Journey\Semester 2\problemsolving\TwoSum\bin\Debug\net6.0\TwoSum.exe
+E:\Australia Journey\Semester 2\problemsolving\TwoSum\bin\Debug\net6.0\TwoSum.deps.json
+E:\Australia Journey\Semester 2\problemsolving\TwoSum\bin\Debug\net6.0\TwoSum.runtimeconfig.json
+E:\Australia Journey\Semester 2\problemsolving\TwoSum\bin\Debug\net6.0\TwoSum.dll
+E:\Australia Journey\Semester 2\problemsolving\TwoSum\bin\Debug\net6.0\TwoSum.pdb
+E:\Australia Journey\Semester 2\problemsolving\TwoSum\obj\Debug\net6.0\TwoSum.csproj.AssemblyReference.cache
+E:\Australia Journey\Semester 2\problemsolving\TwoSum\obj\Debug\net6.0\TwoSum.GeneratedMSBuildEditorConfig.editorconfig
+E:\Australia Journey\Semester 2\problemsolving\TwoSum\obj\Debug\net6.0\TwoSum.AssemblyInfoInputs.cache
+E:\Australia Journey\Semester 2\problemsolving\TwoSum\obj\Debug\net6.0\TwoSum.AssemblyInfo.cs
+E:\Australia Journey\Semester 2\problemsolving\TwoSum\obj\Debug\net6.0\TwoSum.csproj.CoreCompileInputs.cache
+E:\Australia Journey\Semester 2\problemsolving\TwoSum\obj\Debug\net6.0\TwoSum.dll
+E:\Australia Journey\Semester 2\problemsolving\TwoSum\obj\Debug\net6.0\refint\TwoSum.dll
+E:\Australia Journey\Semester 2\problemsolving\TwoSum\obj\Debug\net6.0\TwoSum.pdb
+E:\Australia Journey\Semester 2\problemsolving\TwoSum\obj\Debug\net6.0\TwoSum.genruntimeconfig.cache
+E:\Australia Journey\Semester 2\problemsolving\TwoSum\obj\Debug\net6.0\ref\TwoSum.dll
